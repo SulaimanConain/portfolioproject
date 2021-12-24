@@ -1,6 +1,6 @@
 # portfolioproject
 
-in this project i have visulaized the different covid 19 variants data using MySQL server and tableau.
+in this project i have visualized the different covid 19 variants data using MySQL server and tableau.
 
 it shows the different variants of Covid-19 in different countries.
 
